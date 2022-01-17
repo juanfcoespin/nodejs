@@ -1,0 +1,1 @@
+Templates to create empty restFull API
